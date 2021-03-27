@@ -1,4 +1,5 @@
 # Diccionario-EuroOffice
+Esta es una herramienta para OpenOffice Diccionario para utilizar en diferentes idiomas, para utilizarlo como
 escritor, extensión, diccionario, herramientas de idioma, inglés, alemán, francés, eurooffice, húngaro
 
 EuroOffice Dictionary es una barra de herramientas de diccionario. Esta barra de herramientas mostrará continuamente las traducciones de la palabra debajo del cursor en un documento de texto y también proporciona otras funciones útiles.
