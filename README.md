@@ -9,3 +9,4 @@ Cuando reemplaza una palabra, el cursor se moverá a la siguiente palabra. Esto 
 EuroOffice Dictionary incluye diccionarios para inglés , alemán y francés .
 ¡Agregar nuevos diccionarios o reemplazar los diccionarios incluidos es fácil! ¡Son archivos CSV simples!
 Viene con la raíz del estado de la técnica para el idioma húngaro y con la raíz básica para el inglés.
+extensions.openoffice
